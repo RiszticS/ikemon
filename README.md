@@ -1,6 +1,6 @@
 # IKémon
 
-![ikemon.png](ikemon.png)
+![ikemon.png](readme/menu.png)
 
 ---
 

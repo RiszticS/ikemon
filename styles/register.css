@@ -1,0 +1,29 @@
+.register-card {
+    border-radius: 8px;
+    box-shadow: 1px 15px 20px 5px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 1px 15px 20px 5px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 1px 15px 20px 5px rgba(0, 0, 0, 0.5);
+    margin-top: 20px;
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+}
+
+.submit {
+    background-color: var(--clr-main);
+    border-radius: 8px;
+    color: var(--clr-white);
+    cursor: pointer;
+    font-weight: bold;
+    padding: 10px;
+    transition: 0.2s;
+    padding: 10px 100px;
+    margin-top: 30px;
+}
+
+input{
+    padding: 5px 0;
+    margin: 10px 0;
+}

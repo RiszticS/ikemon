@@ -1,0 +1,30 @@
+{
+    "admin": {
+        "name": "admin",
+        "email": "admin",
+        "password": "admin",
+        "money": 999999,
+        "permission": 0,
+        "cards": [
+            "card3",
+            "card6",
+            "card9",
+            "card4",
+            "card0",
+            "card7",
+            "card5",
+            "card2"
+        ]
+    },
+    "srxh37": {
+        "name": "srxh37",
+        "email": "riszticsadam@gmail.com",
+        "password": "asd",
+        "money": 664,
+        "permission": 1,
+        "cards": [
+            "card1",
+            "card8"
+        ]
+    }
+}

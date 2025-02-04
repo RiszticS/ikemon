@@ -1,6 +1,6 @@
 # IKémon
 
-![menu.png](readme/menu.png)
+![home.png](readme/home.png)
 
 ---
 
@@ -33,11 +33,15 @@ Pokémonok szabadultak be a világunkba! Az NFT kereskedők gyorsan megragadták
 - Háttérszín a Pokémon eleme szerint.
 - Navigációs linkek.
 
+![pokemon.png](readme/pokemon.png)
+
 ---
 
 ## Felhasználó részletek
 - Felhasználó adatai és kártyái.
 - Kártyák eladása az adminnak 90%-os áron.
+
+![user.png](readme/user.png)
 
 ---
 
@@ -55,6 +59,8 @@ Pokémonok szabadultak be a világunkba! Az NFT kereskedők gyorsan megragadták
 - Kártya létrehozása.
 - Admin korlátlan számú kártyát birtokolhat.
 - Admin nem vásárolhat kártyát.
+
+![admin.png](readme/admin.png)
 
 ---
 
